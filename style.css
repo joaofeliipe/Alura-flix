@@ -1,5 +1,19 @@
 body{
     background-color: purple;
-    color:rgb(244, 240, 240);
+    color:rgba(244, 240, 240, 1);
     font-family: fantasy;
+    margin: 0px;
+}
+
+header{
+    font-size: 45px;
+    border: solid 5px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+font-size: 15px;
 }
