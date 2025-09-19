@@ -1,13 +1,14 @@
 body{
     background-color: purple;
-    color:rgba(244, 240, 240, 1);
-    font-family: fantasy;
+    color: blueviolet;
+    font-family: "Epunda Slab", serif;
     margin: 0px;
 }
 
 header{
-    font-size: 45px;
-    border: solid 5px;
+    font-size: 50px;
+    border: double 5px black;
+    margin: 30px;
 }
 
 h1{
@@ -15,5 +16,5 @@ h1{
 }
 
 p{
-font-size: 15px;
+    font-size: 20px;
 }
